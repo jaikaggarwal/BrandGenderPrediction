@@ -1,0 +1,808 @@
+,0,1
+0,Name,Category
+1,alpinestars,A141 Sportswear & Athleticwear
+2,arcteryx,A141 Sportswear & Athleticwear
+3,billabong,A141 Sportswear & Athleticwear
+4,boathouse,A141 Sportswear & Athleticwear
+5,dicorpo,A141 Sportswear & Athleticwear
+6,flagpole,A141 Sportswear & Athleticwear
+7,intelliskin,A141 Sportswear & Athleticwear
+8,isadore,A141 Sportswear & Athleticwear
+9,liftatics,A141 Sportswear & Athleticwear
+10,liquido,A141 Sportswear & Athleticwear
+11,mavic,A141 Sportswear & Athleticwear
+12,onzie,A141 Sportswear & Athleticwear
+13,pactimo,A141 Sportswear & Athleticwear
+14,roxy,A141 Sportswear & Athleticwear
+15,ryderwear,A141 Sportswear & Athleticwear
+16,saucony,A141 Sportswear & Athleticwear
+17,shimano,A141 Sportswear & Athleticwear
+18,speedo,A141 Sportswear & Athleticwear
+19,stio,A141 Sportswear & Athleticwear
+20,sugoi,A141 Sportswear & Athleticwear
+21,vuori,A141 Sportswear & Athleticwear
+22,aftco,A141 Sportswear & Athleticwear
+23,bugatchi,A141 Sportswear & Athleticwear
+24,caliber,A141 Sportswear & Athleticwear
+25,chubbies,A141 Sportswear & Athleticwear
+26,cromwell,A141 Sportswear & Athleticwear
+27,garanimals,A141 Sportswear & Athleticwear
+28,grayers,A141 Sportswear & Athleticwear
+29,greenco,A141 Sportswear & Athleticwear
+30,kelto,A141 Sportswear & Athleticwear
+31,kerusso,A141 Sportswear & Athleticwear
+32,lacoste,A141 Sportswear & Athleticwear
+33,lapco,A141 Sportswear & Athleticwear
+34,lawphrases,A141 Sportswear & Athleticwear
+35,levelwear,A141 Sportswear & Athleticwear
+36,munsingwear,A141 Sportswear & Athleticwear
+37,oodji,A141 Sportswear & Athleticwear
+38,sandro,A141 Sportswear & Athleticwear
+39,tailorbyrd,A141 Sportswear & Athleticwear
+40,valentino,A141 Sportswear & Athleticwear
+41,wrangler,A141 Sportswear & Athleticwear
+42,aldo,A311 Womens Shoes & Boots
+43,allbirds,A311 Womens Shoes & Boots
+44,bearpaw,A311 Womens Shoes & Boots
+45,bernardo,A311 Womens Shoes & Boots
+46,blundstone,A311 Womens Shoes & Boots
+47,chaco,A311 Womens Shoes & Boots
+48,chellysun,A311 Womens Shoes & Boots
+49,chloe,A311 Womens Shoes & Boots
+50,clarks,A311 Womens Shoes & Boots
+51,dansko,A311 Womens Shoes & Boots
+52,gucci,A311 Womens Shoes & Boots
+53,impo,A311 Womens Shoes & Boots
+54,jambu,A311 Womens Shoes & Boots
+55,keds,A311 Womens Shoes & Boots
+56,khombu,A311 Womens Shoes & Boots
+57,latigo,A311 Womens Shoes & Boots
+58,lucchese,A311 Womens Shoes & Boots
+59,nisolo,A311 Womens Shoes & Boots
+60,olukai,A311 Womens Shoes & Boots
+61,privo,A311 Womens Shoes & Boots
+62,socofy,A311 Womens Shoes & Boots
+63,sporto,A311 Womens Shoes & Boots
+64,testoni,A311 Womens Shoes & Boots
+65,valentino,A311 Womens Shoes & Boots
+66,vionic,A311 Womens Shoes & Boots
+67,ecco,A321 Sneakers
+68,enko,A321 Sneakers
+69,keds,A321 Sneakers
+70,kuru,A321 Sneakers
+71,lacoste,A321 Sneakers
+72,lalo,A321 Sneakers
+73,mephisto,A321 Sneakers
+74,merrell,A321 Sneakers
+75,montrail,A321 Sneakers
+76,saucony,A321 Sneakers
+77,sporto,A321 Sneakers
+78,vasque,A321 Sneakers
+79,vionic,A321 Sneakers
+80,botkier,A411 Handbags
+81,burberry,A411 Handbags
+82,cccxxxlll,A411 Handbags
+83,cenzo,A411 Handbags
+84,chloe,A411 Handbags
+85,couture,A411 Handbags
+86,ecco,A411 Handbags
+87,etro,A411 Handbags
+88,gucci,A411 Handbags
+89,hobo,A411 Handbags
+90,mango,A411 Handbags
+91,moschino,A411 Handbags
+92,tumi,A411 Handbags
+93,valentino,A411 Handbags
+94,burberry,A430 Sunglasses
+95,covry,A430 Sunglasses
+96,foldies,A430 Sunglasses
+97,gucci,A430 Sunglasses
+98,revo,A430 Sunglasses
+99,serengeti,A430 Sunglasses
+100,speedo,A430 Sunglasses
+101,truedark,A430 Sunglasses
+102,valentino,A430 Sunglasses
+103,vogue,A430 Sunglasses
+104,barclaycard,B111 Credit Cards
+105,citibanamex,B111 Credit Cards
+106,citibank,B111 Credit Cards
+107,hbl,B111 Credit Cards
+108,sunoco,B111 Credit Cards
+109,unionpay,B111 Credit Cards
+110,brinks,B111 Credit Cards
+111,lsc,B111 Credit Cards
+112,metabank,B111 Credit Cards
+113,cardcookie,B111 Credit Cards
+114,huskypro,B111 Credit Cards
+115,lindbergh,B111 Credit Cards
+116,itau,B111 Credit Cards
+117,aberdeen,B122 Investment Products & Services (Excluding Retirement)
+118,alliancebernstein,B122 Investment Products & Services (Excluding Retirement)
+119,cboe,B122 Investment Products & Services (Excluding Retirement)
+120,edvest,B122 Investment Products & Services (Excluding Retirement)
+121,evergreen,B122 Investment Products & Services (Excluding Retirement)
+122,morningstar,B122 Investment Products & Services (Excluding Retirement)
+123,pimco,B122 Investment Products & Services (Excluding Retirement)
+124,serenityshares,B122 Investment Products & Services (Excluding Retirement)
+125,streetshares,B122 Investment Products & Services (Excluding Retirement)
+126,symm,B122 Investment Products & Services (Excluding Retirement)
+127,allianz,B122 Investment Products & Services (Excluding Retirement)
+128,annuitydiscovery,B122 Investment Products & Services (Excluding Retirement)
+129,prudential,B122 Investment Products & Services (Excluding Retirement)
+130,collegechoice,B122 Investment Products & Services (Excluding Retirement)
+131,upromise,B122 Investment Products & Services (Excluding Retirement)
+132,alvexo,B122 Investment Products & Services (Excluding Retirement)
+133,marketaxess,B122 Investment Products & Services (Excluding Retirement)
+134,nadex,B122 Investment Products & Services (Excluding Retirement)
+135,optionshouse,B122 Investment Products & Services (Excluding Retirement)
+136,tradepmr,B122 Investment Products & Services (Excluding Retirement)
+137,tradeweb,B122 Investment Products & Services (Excluding Retirement)
+138,tradovate,B122 Investment Products & Services (Excluding Retirement)
+139,wefunder,B122 Investment Products & Services (Excluding Retirement)
+140,zulutrade,B122 Investment Products & Services (Excluding Retirement)
+141,barings,B122 Investment Products & Services (Excluding Retirement)
+142,brightplan,B122 Investment Products & Services (Excluding Retirement)
+143,citibank,B122 Investment Products & Services (Excluding Retirement)
+144,commsec,B122 Investment Products & Services (Excluding Retirement)
+145,finhabits,B122 Investment Products & Services (Excluding Retirement)
+146,forex,B122 Investment Products & Services (Excluding Retirement)
+147,goldmoney,B122 Investment Products & Services (Excluding Retirement)
+148,raiffeisenbank,B122 Investment Products & Services (Excluding Retirement)
+149,westex,B122 Investment Products & Services (Excluding Retirement)
+150,citigroup,B122 Investment Products & Services (Excluding Retirement)
+151,fundrise,B122 Investment Products & Services (Excluding Retirement)
+152,amr,B122 Investment Products & Services (Excluding Retirement)
+153,carax,B122 Investment Products & Services (Excluding Retirement)
+154,cnote,B122 Investment Products & Services (Excluding Retirement)
+155,intellicentrics,B122 Investment Products & Services (Excluding Retirement)
+156,scripbox,B122 Investment Products & Services (Excluding Retirement)
+157,unionbanc,B122 Investment Products & Services (Excluding Retirement)
+158,vestory,B122 Investment Products & Services (Excluding Retirement)
+159,apgfcu,B124 Loan/Credit Products & Services (Consumer)
+160,cibc,B124 Loan/Credit Products & Services (Consumer)
+161,citibank,B124 Loan/Credit Products & Services (Consumer)
+162,hightechlending,B124 Loan/Credit Products & Services (Consumer)
+163,lendaid,B124 Loan/Credit Products & Services (Consumer)
+164,maxwell,B124 Loan/Credit Products & Services (Consumer)
+165,rabobank,B124 Loan/Credit Products & Services (Consumer)
+166,ratejab,B124 Loan/Credit Products & Services (Consumer)
+167,autogravity,B124 Loan/Credit Products & Services (Consumer)
+168,motolease,B124 Loan/Credit Products & Services (Consumer)
+169,motorefi,B124 Loan/Credit Products & Services (Consumer)
+170,nerdwallet,B124 Loan/Credit Products & Services (Consumer)
+171,sofi,B124 Loan/Credit Products & Services (Consumer)
+172,equifax,B124 Loan/Credit Products & Services (Consumer)
+173,idamortgage,B124 Loan/Credit Products & Services (Consumer)
+174,leveragerx,B124 Loan/Credit Products & Services (Consumer)
+175,mgic,B124 Loan/Credit Products & Services (Consumer)
+176,moneytips,B124 Loan/Credit Products & Services (Consumer)
+177,titlemax,B124 Loan/Credit Products & Services (Consumer)
+178,citifinancial,B124 Loan/Credit Products & Services (Consumer)
+179,viewqwest,B225 Internet Service Providers (ISP)
+180,boingo,B225 Internet Service Providers (ISP)
+181,buckeye,B225 Internet Service Providers (ISP)
+182,claro,B225 Internet Service Providers (ISP)
+183,earthlink,B225 Internet Service Providers (ISP)
+184,epix,B225 Internet Service Providers (ISP)
+185,firefox,B225 Internet Service Providers (ISP)
+186,kinx,B225 Internet Service Providers (ISP)
+187,netx,B225 Internet Service Providers (ISP)
+188,newsnerds,B225 Internet Service Providers (ISP)
+189,nextstep,B225 Internet Service Providers (ISP)
+190,nitco,B225 Internet Service Providers (ISP)
+191,otelco,B225 Internet Service Providers (ISP)
+192,plateau,B225 Internet Service Providers (ISP)
+193,serverpronto,B225 Internet Service Providers (ISP)
+194,shawneelink,B225 Internet Service Providers (ISP)
+195,skydio,B225 Internet Service Providers (ISP)
+196,starry,B225 Internet Service Providers (ISP)
+197,telitec,B225 Internet Service Providers (ISP)
+198,telmex,B225 Internet Service Providers (ISP)
+199,unlimitedville,B225 Internet Service Providers (ISP)
+200,verizon,B225 Internet Service Providers (ISP)
+201,vivo,B225 Internet Service Providers (ISP)
+202,windstream,B225 Internet Service Providers (ISP)
+203,wow,B225 Internet Service Providers (ISP)
+204,yahoo,B225 Internet Service Providers (ISP)
+205,cogeco,B241 Cable TV Providers & Systems
+206,wow,B241 Cable TV Providers & Systems
+207,cbn,"B322 Religious, Charitable & Humanitarian"
+208,missio,"B322 Religious, Charitable & Humanitarian"
+209,vivaphysicians,"B322 Religious, Charitable & Humanitarian"
+210,cityteam,"B322 Religious, Charitable & Humanitarian"
+211,contacto,"B322 Religious, Charitable & Humanitarian"
+212,insubuy,B430 Insurance Agencies & Brokers
+213,medicaresolutions,B430 Insurance Agencies & Brokers
+214,netquote,B430 Insurance Agencies & Brokers
+215,pemco,B430 Insurance Agencies & Brokers
+216,pendo,B430 Insurance Agencies & Brokers
+217,quotacy,B430 Insurance Agencies & Brokers
+218,travelers,B430 Insurance Agencies & Brokers
+219,trubridge,B430 Insurance Agencies & Brokers
+220,amax,B511 Desktop Computers
+221,cyberpowerpc,B511 Desktop Computers
+222,supermicro,B511 Desktop Computers
+223,xidax,B511 Desktop Computers
+224,anajet,B521 Printers & Printing Accessories
+225,glowforge,B521 Printers & Printing Accessories
+226,colorbrite,B521 Printers & Printing Accessories
+227,envisiontec,B521 Printers & Printing Accessories
+228,juki,B521 Printers & Printing Accessories
+229,leibinger,B521 Printers & Printing Accessories
+230,oki,B521 Printers & Printing Accessories
+231,panasonic,B521 Printers & Printing Accessories
+232,videojet,B521 Printers & Printing Accessories
+233,discovertec,"B541 Web Design, Domain & Hosting Services"
+234,inspiresmart,"B541 Web Design, Domain & Hosting Services"
+235,workfolio,"B541 Web Design, Domain & Hosting Services"
+236,convio,"B541 Web Design, Domain & Hosting Services"
+237,jaguarpc,"B541 Web Design, Domain & Hosting Services"
+238,nexcess,"B541 Web Design, Domain & Hosting Services"
+239,singlehop,"B541 Web Design, Domain & Hosting Services"
+240,versaweb,"B541 Web Design, Domain & Hosting Services"
+241,abc,"B641 TV Networks, Stations & Production Cos"
+242,aflac,"B641 TV Networks, Stations & Production Cos"
+243,castro,"B641 TV Networks, Stations & Production Cos"
+244,cnbc,"B641 TV Networks, Stations & Production Cos"
+245,earthoteric,"B641 TV Networks, Stations & Production Cos"
+246,fremantlemedia,"B641 TV Networks, Stations & Production Cos"
+247,goldbergs,"B641 TV Networks, Stations & Production Cos"
+248,logo,"B641 TV Networks, Stations & Production Cos"
+249,nbc,"B641 TV Networks, Stations & Production Cos"
+250,newsfix,"B641 TV Networks, Stations & Production Cos"
+251,tampico,"B641 TV Networks, Stations & Production Cos"
+252,telemundo,"B641 TV Networks, Stations & Production Cos"
+253,wwe,"B641 TV Networks, Stations & Production Cos"
+254,pbs,"B641 TV Networks, Stations & Production Cos"
+255,admore,"B651 Advertising, Marketing & Printing Svcs"
+256,advertex,"B651 Advertising, Marketing & Printing Svcs"
+257,businessonline,"B651 Advertising, Marketing & Printing Svcs"
+258,corporaterewardsxchange,"B651 Advertising, Marketing & Printing Svcs"
+259,cpr,"B651 Advertising, Marketing & Printing Svcs"
+260,cybersitesearch,"B651 Advertising, Marketing & Printing Svcs"
+261,dotmailer,"B651 Advertising, Marketing & Printing Svcs"
+262,drinktell,"B651 Advertising, Marketing & Printing Svcs"
+263,emedco,"B651 Advertising, Marketing & Printing Svcs"
+264,freeman,"B651 Advertising, Marketing & Printing Svcs"
+265,friesenpress,"B651 Advertising, Marketing & Printing Svcs"
+266,geniusmonkey,"B651 Advertising, Marketing & Printing Svcs"
+267,getresponse,"B651 Advertising, Marketing & Printing Svcs"
+268,graphicriver,"B651 Advertising, Marketing & Printing Svcs"
+269,greenfield,"B651 Advertising, Marketing & Printing Svcs"
+270,incentrev,"B651 Advertising, Marketing & Printing Svcs"
+271,jumpfly,"B651 Advertising, Marketing & Printing Svcs"
+272,jumplead,"B651 Advertising, Marketing & Printing Svcs"
+273,labelmaster,"B651 Advertising, Marketing & Printing Svcs"
+274,linx,"B651 Advertising, Marketing & Printing Svcs"
+275,liveintent,"B651 Advertising, Marketing & Printing Svcs"
+276,marco,"B651 Advertising, Marketing & Printing Svcs"
+277,marketinglab,"B651 Advertising, Marketing & Printing Svcs"
+278,mediamath,"B651 Advertising, Marketing & Printing Svcs"
+279,monetizemore,"B651 Advertising, Marketing & Printing Svcs"
+280,moo,"B651 Advertising, Marketing & Printing Svcs"
+281,movio,"B651 Advertising, Marketing & Printing Svcs"
+282,multiview,"B651 Advertising, Marketing & Printing Svcs"
+283,netseer,"B651 Advertising, Marketing & Printing Svcs"
+284,nielsen,"B651 Advertising, Marketing & Printing Svcs"
+285,omnience,"B651 Advertising, Marketing & Printing Svcs"
+286,oplytic,"B651 Advertising, Marketing & Printing Svcs"
+287,optimalprint,"B651 Advertising, Marketing & Printing Svcs"
+288,paytronix,"B651 Advertising, Marketing & Printing Svcs"
+289,radiumone,"B651 Advertising, Marketing & Printing Svcs"
+290,socialseo,"B651 Advertising, Marketing & Printing Svcs"
+291,sociomantic,"B651 Advertising, Marketing & Printing Svcs"
+292,sprinklr,"B651 Advertising, Marketing & Printing Svcs"
+293,srax,"B651 Advertising, Marketing & Printing Svcs"
+294,stickermule,"B651 Advertising, Marketing & Printing Svcs"
+295,surveycompare,"B651 Advertising, Marketing & Printing Svcs"
+296,synacor,"B651 Advertising, Marketing & Printing Svcs"
+297,tastyplacement,"B651 Advertising, Marketing & Printing Svcs"
+298,trojanlitho,"B651 Advertising, Marketing & Printing Svcs"
+299,videology,"B651 Advertising, Marketing & Printing Svcs"
+300,watchfire,"B651 Advertising, Marketing & Printing Svcs"
+301,webmechanix,"B651 Advertising, Marketing & Printing Svcs"
+302,wishabi,"B651 Advertising, Marketing & Printing Svcs"
+303,zwrapz,"B651 Advertising, Marketing & Printing Svcs"
+304,bdi,B721 Office Furniture & Accessories
+305,bevco,B721 Office Furniture & Accessories
+306,corechair,B721 Office Furniture & Accessories
+307,excalibur,B721 Office Furniture & Accessories
+308,gunlocke,B721 Office Furniture & Accessories
+309,screenflex,B721 Office Furniture & Accessories
+310,whitewalls,B721 Office Furniture & Accessories
+311,xstamper,B721 Office Furniture & Accessories
+312,xybix,B721 Office Furniture & Accessories
+313,lovepop,"B722 Stationery,Greeting Cards&Misc Paper Gds"
+314,marrygrams,"B722 Stationery,Greeting Cards&Misc Paper Gds"
+315,camcode,"B722 Stationery,Greeting Cards&Misc Paper Gds"
+316,deluxe,"B722 Stationery,Greeting Cards&Misc Paper Gds"
+317,diagraph,"B722 Stationery,Greeting Cards&Misc Paper Gds"
+318,izulu,"B722 Stationery,Greeting Cards&Misc Paper Gds"
+319,neenah,"B722 Stationery,Greeting Cards&Misc Paper Gds"
+320,sato,"B722 Stationery,Greeting Cards&Misc Paper Gds"
+321,sony,"B722 Stationery,Greeting Cards&Misc Paper Gds"
+322,symbology,"B722 Stationery,Greeting Cards&Misc Paper Gds"
+323,myscrapnook,"B722 Stationery,Greeting Cards&Misc Paper Gds"
+324,careerbuilder,B913 Employment Agencies
+325,careercenter,B913 Employment Agencies
+326,careers,B913 Employment Agencies
+327,efinancialcareers,B913 Employment Agencies
+328,experis,B913 Employment Agencies
+329,ezzely,B913 Employment Agencies
+330,imagemakers,B913 Employment Agencies
+331,ires,B913 Employment Agencies
+332,jobcase,B913 Employment Agencies
+333,jobsohio,B913 Employment Agencies
+334,merlin,B913 Employment Agencies
+335,northcountryhelpwanted,B913 Employment Agencies
+336,pennenergyjobs,B913 Employment Agencies
+337,saic,B913 Employment Agencies
+338,tmc,B913 Employment Agencies
+339,varietycareers,B913 Employment Agencies
+340,biore,"D119 Skin Care Products, General Promotion/Multi-Category/Corporate/Sponsorship"
+341,biosilk,"D119 Skin Care Products, General Promotion/Multi-Category/Corporate/Sponsorship"
+342,caudalie,"D119 Skin Care Products, General Promotion/Multi-Category/Corporate/Sponsorship"
+343,cetaphil,"D119 Skin Care Products, General Promotion/Multi-Category/Corporate/Sponsorship"
+344,chamonix,"D119 Skin Care Products, General Promotion/Multi-Category/Corporate/Sponsorship"
+345,curology,"D119 Skin Care Products, General Promotion/Multi-Category/Corporate/Sponsorship"
+346,dermarest,"D119 Skin Care Products, General Promotion/Multi-Category/Corporate/Sponsorship"
+347,elemis,"D119 Skin Care Products, General Promotion/Multi-Category/Corporate/Sponsorship"
+348,gojo,"D119 Skin Care Products, General Promotion/Multi-Category/Corporate/Sponsorship"
+349,mamonde,"D119 Skin Care Products, General Promotion/Multi-Category/Corporate/Sponsorship"
+350,mediheal,"D119 Skin Care Products, General Promotion/Multi-Category/Corporate/Sponsorship"
+351,naturopathica,"D119 Skin Care Products, General Promotion/Multi-Category/Corporate/Sponsorship"
+352,nerium,"D119 Skin Care Products, General Promotion/Multi-Category/Corporate/Sponsorship"
+353,nuxe,"D119 Skin Care Products, General Promotion/Multi-Category/Corporate/Sponsorship"
+354,obagi,"D119 Skin Care Products, General Promotion/Multi-Category/Corporate/Sponsorship"
+355,palmers,"D119 Skin Care Products, General Promotion/Multi-Category/Corporate/Sponsorship"
+356,sebamed,"D119 Skin Care Products, General Promotion/Multi-Category/Corporate/Sponsorship"
+357,shiseido,"D119 Skin Care Products, General Promotion/Multi-Category/Corporate/Sponsorship"
+358,skinfix,"D119 Skin Care Products, General Promotion/Multi-Category/Corporate/Sponsorship"
+359,spectro,"D119 Skin Care Products, General Promotion/Multi-Category/Corporate/Sponsorship"
+360,sulwhasoo,"D119 Skin Care Products, General Promotion/Multi-Category/Corporate/Sponsorship"
+361,dermablend,"D149 Face Makeup, General Promotion/Multi-Category/Corporate/Sponsorship"
+362,blu,"D181 Women's Scents, Fragrances, Perfumes"
+363,boutique,"D181 Women's Scents, Fragrances, Perfumes"
+364,chloe,"D181 Women's Scents, Fragrances, Perfumes"
+365,sensu,"D181 Women's Scents, Fragrances, Perfumes"
+366,uomo,"D181 Women's Scents, Fragrances, Perfumes"
+367,whitewater,"D183 Men's Scents, Fragrances, Aftershaves"
+368,blu,"D183 Men's Scents, Fragrances, Aftershaves"
+369,latitude,"D183 Men's Scents, Fragrances, Aftershaves"
+370,polo,"D183 Men's Scents, Fragrances, Aftershaves"
+371,bu,"D189 Fragrances, General Promotion/Multi-Category/Corporate/Sponsorship"
+372,sexy,"D189 Fragrances, General Promotion/Multi-Category/Corporate/Sponsorship"
+373,colgate,D211 Toothpaste & Whiteners
+374,parodontax,D211 Toothpaste & Whiteners
+375,poladay,D211 Toothpaste & Whiteners
+376,polaoffice,D211 Toothpaste & Whiteners
+377,sensodyne,D211 Toothpaste & Whiteners
+378,harrys,D439 Mens Shaving Equipment & Supplies General Promotion
+379,panasonic,D439 Mens Shaving Equipment & Supplies General Promotion
+380,alliviax,D511 Pain Remedies
+381,anacin,D511 Pain Remedies
+382,flanax,D511 Pain Remedies
+383,flexoplex,D511 Pain Remedies
+384,painzone,D511 Pain Remedies
+385,excedrin,D511 Pain Remedies
+386,benadryl,"D529 Cold, Cough, Sinus & Asthma Remdies:Comb & NEC"
+387,pfizer,"D529 Cold, Cough, Sinus & Asthma Remdies:Comb & NEC"
+388,atkins,D543 Nutritional Supplements
+389,epic,D543 Nutritional Supplements
+390,gatorade,D543 Nutritional Supplements
+391,gomacro,D543 Nutritional Supplements
+392,olly,D543 Nutritional Supplements
+393,paleo,D543 Nutritional Supplements
+394,powerbar,D543 Nutritional Supplements
+395,prosource,D543 Nutritional Supplements
+396,advantedge,D543 Nutritional Supplements
+397,airborne,D543 Nutritional Supplements
+398,amberen,D543 Nutritional Supplements
+399,aminocore,D543 Nutritional Supplements
+400,anatabloc,D543 Nutritional Supplements
+401,astafx,D543 Nutritional Supplements
+402,bipro,D543 Nutritional Supplements
+403,calmax,D543 Nutritional Supplements
+404,cbdpure,D543 Nutritional Supplements
+405,celergen,D543 Nutritional Supplements
+406,choleslo,D543 Nutritional Supplements
+407,cholesterade,D543 Nutritional Supplements
+408,coggevity,D543 Nutritional Supplements
+409,colonix,D543 Nutritional Supplements
+410,culturelle,D543 Nutritional Supplements
+411,enfagrow,D543 Nutritional Supplements
+412,enu,D543 Nutritional Supplements
+413,epiq,D543 Nutritional Supplements
+414,essentials,D543 Nutritional Supplements
+415,evivo,D543 Nutritional Supplements
+416,fuze,D543 Nutritional Supplements
+417,garlique,D543 Nutritional Supplements
+418,glucopure,D543 Nutritional Supplements
+419,heartisan,D543 Nutritional Supplements
+420,hempx,D543 Nutritional Supplements
+421,hexapro,D543 Nutritional Supplements
+422,hormosex,D543 Nutritional Supplements
+423,ico,D543 Nutritional Supplements
+424,instaflex,D543 Nutritional Supplements
+425,isoflex,D543 Nutritional Supplements
+426,jubi,D543 Nutritional Supplements
+427,keraviatin,D543 Nutritional Supplements
+428,keto,D543 Nutritional Supplements
+429,libimax,D543 Nutritional Supplements
+430,limitless,D543 Nutritional Supplements
+431,liquidblue,D543 Nutritional Supplements
+432,lysulin,D543 Nutritional Supplements
+433,mojo,D543 Nutritional Supplements
+434,mri,D543 Nutritional Supplements
+435,neocell,D543 Nutritional Supplements
+436,nitraflex,D543 Nutritional Supplements
+437,novirin,D543 Nutritional Supplements
+438,nucific,D543 Nutritional Supplements
+439,nugenix,D543 Nutritional Supplements
+440,nutrabase,D543 Nutritional Supplements
+441,nutriketo,D543 Nutritional Supplements
+442,organifi,D543 Nutritional Supplements
+443,organixx,D543 Nutritional Supplements
+444,pantesin,D543 Nutritional Supplements
+445,pediasure,D543 Nutritional Supplements
+446,performax,D543 Nutritional Supplements
+447,performix,D543 Nutritional Supplements
+448,phosphatidylserine,D543 Nutritional Supplements
+449,potentisimo,D543 Nutritional Supplements
+450,prebiothrive,D543 Nutritional Supplements
+451,precharge,D543 Nutritional Supplements
+452,prevagen,D543 Nutritional Supplements
+453,pritikin,D543 Nutritional Supplements
+454,progenex,D543 Nutritional Supplements
+455,prostagenix,D543 Nutritional Supplements
+456,protazen,D543 Nutritional Supplements
+457,regimen,D543 Nutritional Supplements
+458,relizen,D543 Nutritional Supplements
+459,scitec,D543 Nutritional Supplements
+460,spoonfulone,D543 Nutritional Supplements
+461,sportlegs,D543 Nutritional Supplements
+462,staunch,D543 Nutritional Supplements
+463,sunfood,D543 Nutritional Supplements
+464,unjury,D543 Nutritional Supplements
+465,urinozinc,D543 Nutritional Supplements
+466,vigfx,D543 Nutritional Supplements
+467,virilityex,D543 Nutritional Supplements
+468,vitalbulk,D543 Nutritional Supplements
+469,vitamix,D543 Nutritional Supplements
+470,yuctivil,D543 Nutritional Supplements
+471,hylands,D543 Nutritional Supplements
+472,americell,D543 Nutritional Supplements
+473,barleans,D543 Nutritional Supplements
+474,biosync,D543 Nutritional Supplements
+475,clarityx,D543 Nutritional Supplements
+476,dreambrands,D543 Nutritional Supplements
+477,elysium,D543 Nutritional Supplements
+478,gnc,D543 Nutritional Supplements
+479,icelandirect,D543 Nutritional Supplements
+480,isagenix,D543 Nutritional Supplements
+481,isopure,D543 Nutritional Supplements
+482,mentalbright,D543 Nutritional Supplements
+483,nutrabio,D543 Nutritional Supplements
+484,nutrex,D543 Nutritional Supplements
+485,physiotru,D543 Nutritional Supplements
+486,purelyinspired,D543 Nutritional Supplements
+487,sunergetic,D543 Nutritional Supplements
+488,turmeric,D543 Nutritional Supplements
+489,lakanto,F113 Artificial Sweeteners
+490,maltrin,F113 Artificial Sweeteners
+491,pyure,F113 Artificial Sweeteners
+492,sweetleaf,F113 Artificial Sweeteners
+493,swerve,F113 Artificial Sweeteners
+494,wholesome,F113 Artificial Sweeteners
+495,zerose,F113 Artificial Sweeteners
+496,barleans,F122 Cooking Oils
+497,bellucci,F122 Cooking Oils
+498,bertolli,F122 Cooking Oils
+499,bono,F122 Cooking Oils
+500,bunge,F122 Cooking Oils
+501,corto,F122 Cooking Oils
+502,enzo,F122 Cooking Oils
+503,extravagonzo,F122 Cooking Oils
+504,frymax,F122 Cooking Oils
+505,marconi,F122 Cooking Oils
+506,nutrioli,F122 Cooking Oils
+507,qualisoy,F122 Cooking Oils
+508,zoye,F122 Cooking Oils
+509,kelloggs,F229 Cereals General Promotion
+510,farmtrue,F280 Peanut Butter & Sandwich Spreads
+511,skippy,F280 Peanut Butter & Sandwich Spreads
+512,belfonte,"F313 Ice Cream, Frozen Novelties & Sherbet"
+513,breyers,"F313 Ice Cream, Frozen Novelties & Sherbet"
+514,dove,"F313 Ice Cream, Frozen Novelties & Sherbet"
+515,enlightened,"F313 Ice Cream, Frozen Novelties & Sherbet"
+516,friendlys,"F313 Ice Cream, Frozen Novelties & Sherbet"
+517,hudsonville,"F313 Ice Cream, Frozen Novelties & Sherbet"
+518,montage,"F313 Ice Cream, Frozen Novelties & Sherbet"
+519,nadamoo,"F313 Ice Cream, Frozen Novelties & Sherbet"
+520,sdsu,"F313 Ice Cream, Frozen Novelties & Sherbet"
+521,yasso,"F313 Ice Cream, Frozen Novelties & Sherbet"
+522,creamies,"F313 Ice Cream, Frozen Novelties & Sherbet"
+523,lindys,"F313 Ice Cream, Frozen Novelties & Sherbet"
+524,popsicle,"F313 Ice Cream, Frozen Novelties & Sherbet"
+525,dole,"F313 Ice Cream, Frozen Novelties & Sherbet"
+526,biscoff,F343 Cookies & Crackers
+527,entenmanns,F343 Cookies & Crackers
+528,nabisco,F343 Cookies & Crackers
+529,oreo,F343 Cookies & Crackers
+530,voortman,F343 Cookies & Crackers
+531,annies,F343 Cookies & Crackers
+532,carrs,F343 Cookies & Crackers
+533,crix,F343 Cookies & Crackers
+534,mariner,F343 Cookies & Crackers
+535,partners,F343 Cookies & Crackers
+536,yaucono,F411 Coffee
+537,nespresso,F411 Coffee
+538,colombe,F411 Coffee
+539,cogo,F413 Cocoa & Milk Additives
+540,coronado,F413 Cocoa & Milk Additives
+541,ovaltine,F413 Cocoa & Milk Additives
+542,dove,F519 Candy & Mints General Promotion
+543,grippos,"F539 Chips, Nuts, Popcorn & Pretzels General Promotion"
+544,lesserevil,"F539 Chips, Nuts, Popcorn & Pretzels General Promotion"
+545,nabisco,"F539 Chips, Nuts, Popcorn & Pretzels General Promotion"
+546,planters,"F539 Chips, Nuts, Popcorn & Pretzels General Promotion"
+547,pringles,"F539 Chips, Nuts, Popcorn & Pretzels General Promotion"
+548,publix,"F539 Chips, Nuts, Popcorn & Pretzels General Promotion"
+549,shearers,"F539 Chips, Nuts, Popcorn & Pretzels General Promotion"
+550,tru,"F539 Chips, Nuts, Popcorn & Pretzels General Promotion"
+551,brooklyn,F611 Regular Beer & Ale
+552,budweiser,F611 Regular Beer & Ale
+553,heineken,F611 Regular Beer & Ale
+554,indio,F611 Regular Beer & Ale
+555,labatt,F611 Regular Beer & Ale
+556,rainier,F611 Regular Beer & Ale
+557,sapporo,F611 Regular Beer & Ale
+558,shiner,F611 Regular Beer & Ale
+559,steinlager,F611 Regular Beer & Ale
+560,mcmenamins,F611 Regular Beer & Ale
+561,rogue,F611 Regular Beer & Ale
+562,maeloc,F611 Regular Beer & Ale
+563,amberbock,F611 Regular Beer & Ale
+564,celis,F611 Regular Beer & Ale
+565,dutchess,F611 Regular Beer & Ale
+566,hamms,F611 Regular Beer & Ale
+567,hatuey,F611 Regular Beer & Ale
+568,jagermeilter,F611 Regular Beer & Ale
+569,keystone,F611 Regular Beer & Ale
+570,miller,F611 Regular Beer & Ale
+571,schells,F611 Regular Beer & Ale
+572,elysian,F611 Regular Beer & Ale
+573,gopro,G141 Cameras (Excl Video)
+574,sony,G141 Cameras (Excl Video)
+575,vivitar,G141 Cameras (Excl Video)
+576,furbo,G141 Cameras (Excl Video)
+577,fluke,G141 Cameras (Excl Video)
+578,ricoh,G141 Cameras (Excl Video)
+579,lawrys,G323 Casual Dining Restaurants
+580,perrys,G323 Casual Dining Restaurants
+581,sizzler,G323 Casual Dining Restaurants
+582,mayflower,G323 Casual Dining Restaurants
+583,mos,G323 Casual Dining Restaurants
+584,pappadeaux,G323 Casual Dining Restaurants
+585,andiamo,G323 Casual Dining Restaurants
+586,bennigans,G323 Casual Dining Restaurants
+587,corelife,G323 Casual Dining Restaurants
+588,dennys,G323 Casual Dining Restaurants
+589,emerils,G323 Casual Dining Restaurants
+590,friendlys,G323 Casual Dining Restaurants
+591,kahunaville,G323 Casual Dining Restaurants
+592,landrys,G323 Casual Dining Restaurants
+593,mcmenamins,G323 Casual Dining Restaurants
+594,metro,G323 Casual Dining Restaurants
+595,shoneys,G323 Casual Dining Restaurants
+596,tippins,G323 Casual Dining Restaurants
+597,wahlburgers,G323 Casual Dining Restaurants
+598,caribou,G324 Coffee & Donut Restaurants
+599,acme,G411 Fishing Tackle & Equipment
+600,aftco,G411 Fishing Tackle & Equipment
+601,blakemore,G411 Fishing Tackle & Equipment
+602,cabelas,G411 Fishing Tackle & Equipment
+603,elaztech,G411 Fishing Tackle & Equipment
+604,gamakatsu,G411 Fishing Tackle & Equipment
+605,halco,G411 Fishing Tackle & Equipment
+606,hydrowave,G411 Fishing Tackle & Equipment
+607,mystic,G411 Fishing Tackle & Equipment
+608,plano,G411 Fishing Tackle & Equipment
+609,rainshadow,G411 Fishing Tackle & Equipment
+610,rio,G411 Fishing Tackle & Equipment
+611,rippertail,G411 Fishing Tackle & Equipment
+612,shimano,G411 Fishing Tackle & Equipment
+613,ukko,G411 Fishing Tackle & Equipment
+614,vexilar,G411 Fishing Tackle & Equipment
+615,apex,"G451 Snow Skis, Boards, Blades & Accessories"
+616,northwave,"G451 Snow Skis, Boards, Blades & Accessories"
+617,sportube,"G451 Snow Skis, Boards, Blades & Accessories"
+618,carlisle,G499 Sporting Goods General Promotion
+619,duotone,G499 Sporting Goods General Promotion
+620,giro,G499 Sporting Goods General Promotion
+621,macpac,G499 Sporting Goods General Promotion
+622,manitou,G499 Sporting Goods General Promotion
+623,mystic,G499 Sporting Goods General Promotion
+624,newell,G499 Sporting Goods General Promotion
+625,niterider,G499 Sporting Goods General Promotion
+626,rawlings,G499 Sporting Goods General Promotion
+627,shimano,G499 Sporting Goods General Promotion
+628,simmons,G499 Sporting Goods General Promotion
+629,fanatec,G511 Elec & Video Games & Sftwr (Excl PC&Net)
+630,slingo,G511 Elec & Video Games & Sftwr (Excl PC&Net)
+631,furby,G511 Elec & Video Games & Sftwr (Excl PC&Net)
+632,vertagear,G511 Elec & Video Games & Sftwr (Excl PC&Net)
+633,flipazoo,G541 Stuffed Toys
+634,shimmeez,G541 Stuffed Toys
+635,shnooks,G541 Stuffed Toys
+636,halo,G613 Cat & Dog Food Combination
+637,husse,G613 Cat & Dog Food Combination
+638,luvsome,G613 Cat & Dog Food Combination
+639,wellness,G613 Cat & Dog Food Combination
+640,bugatti,"H111 Dinnerware, Glassware & Pottery"
+641,carlisle,"H111 Dinnerware, Glassware & Pottery"
+642,howw,"H111 Dinnerware, Glassware & Pottery"
+643,lenox,"H111 Dinnerware, Glassware & Pottery"
+644,luminarc,"H111 Dinnerware, Glassware & Pottery"
+645,mottahedeh,"H111 Dinnerware, Glassware & Pottery"
+646,nachtmann,"H111 Dinnerware, Glassware & Pottery"
+647,odeme,"H111 Dinnerware, Glassware & Pottery"
+648,oxo,"H111 Dinnerware, Glassware & Pottery"
+649,prodyne,"H111 Dinnerware, Glassware & Pottery"
+650,sango,"H111 Dinnerware, Glassware & Pottery"
+651,allswell,H122 Mattresses & Box Springs
+652,bellabed,H122 Mattresses & Box Springs
+653,blu,H122 Mattresses & Box Springs
+654,dreamland,H122 Mattresses & Box Springs
+655,englander,H122 Mattresses & Box Springs
+656,enso,H122 Mattresses & Box Springs
+657,hastens,H122 Mattresses & Box Springs
+658,intellibed,H122 Mattresses & Box Springs
+659,latexpedic,H122 Mattresses & Box Springs
+660,luxi,H122 Mattresses & Box Springs
+661,magniflex,H122 Mattresses & Box Springs
+662,marpac,H122 Mattresses & Box Springs
+663,naturepedic,H122 Mattresses & Box Springs
+664,nolah,H122 Mattresses & Box Springs
+665,ortho,H122 Mattresses & Box Springs
+666,restonic,H122 Mattresses & Box Springs
+667,snuz,H122 Mattresses & Box Springs
+668,tulo,H122 Mattresses & Box Springs
+669,wonderpedic,H122 Mattresses & Box Springs
+670,allswell,H142 Bedding & Linens
+671,blu,H142 Bedding & Linens
+672,boppy,H142 Bedding & Linens
+673,buffy,H142 Bedding & Linens
+674,cleanbrands,H142 Bedding & Linens
+675,coolmax,H142 Bedding & Linens
+676,coyuchi,H142 Bedding & Linens
+677,downlite,H142 Bedding & Linens
+678,dreamfit,H142 Bedding & Linens
+679,gentherm,H142 Bedding & Linens
+680,hastens,H142 Bedding & Linens
+681,igloo,H142 Bedding & Linens
+682,kassatex,H142 Bedding & Linens
+683,kateklein,H142 Bedding & Linens
+684,mytex,H142 Bedding & Linens
+685,nanotex,H142 Bedding & Linens
+686,olliix,H142 Bedding & Linens
+687,omnipillow,H142 Bedding & Linens
+688,parachute,H142 Bedding & Linens
+689,purecare,H142 Bedding & Linens
+690,robinzingone,H142 Bedding & Linens
+691,rocabi,H142 Bedding & Linens
+692,sensacalm,H142 Bedding & Linens
+693,sheex,H142 Bedding & Linens
+694,simmons,H142 Bedding & Linens
+695,springs,H142 Bedding & Linens
+696,surefit,H142 Bedding & Linens
+697,dynaclean,H213 Laundry Equipment
+698,electrolux,H213 Laundry Equipment
+699,ge,H213 Laundry Equipment
+700,maytag,H213 Laundry Equipment
+701,unimac,H213 Laundry Equipment
+702,acdelco,H310 Household Batteries
+703,apc,H310 Household Batteries
+704,energizer,H310 Household Batteries
+705,rayovac,H310 Household Batteries
+706,ryobi,H310 Household Batteries
+707,bounty,H339 Household Paper Products: Comb & NEC
+708,dynarex,H339 Household Paper Products: Comb & NEC
+709,epackagesupply,H339 Household Paper Products: Comb & NEC
+710,kleenex,H339 Household Paper Products: Comb & NEC
+711,plainwell,H339 Household Paper Products: Comb & NEC
+712,palmolive,H413 Dishwashing Detergents
+713,salvo,H413 Dishwashing Detergents
+714,fabuloso,H432 Multipurpose Cleaners (Cleansers)
+715,sos,H432 Multipurpose Cleaners (Cleansers)
+716,consilium,H625 Security & Fire Safety Systems
+717,kidde,H625 Security & Fire Safety Systems
+718,bilco,H625 Security & Fire Safety Systems
+719,fireavert,H625 Security & Fire Safety Systems
+720,honeywell,H625 Security & Fire Safety Systems
+721,keystone,H625 Security & Fire Safety Systems
+722,airgas,H625 Security & Fire Safety Systems
+723,amaryllo,H625 Security & Fire Safety Systems
+724,amcrest,H625 Security & Fire Safety Systems
+725,arlo,H625 Security & Fire Safety Systems
+726,blazemaster,H625 Security & Fire Safety Systems
+727,brinks,H625 Security & Fire Safety Systems
+728,comelit,H625 Security & Fire Safety Systems
+729,detex,H625 Security & Fire Safety Systems
+730,domondo,H625 Security & Fire Safety Systems
+731,doorking,H625 Security & Fire Safety Systems
+732,eufy,H625 Security & Fire Safety Systems
+733,ezviz,H625 Security & Fire Safety Systems
+734,globe,H625 Security & Fire Safety Systems
+735,hemco,H625 Security & Fire Safety Systems
+736,holmatro,H625 Security & Fire Safety Systems
+737,imaxalarm,H625 Security & Fire Safety Systems
+738,impacto,H625 Security & Fire Safety Systems
+739,inalarm,H625 Security & Fire Safety Systems
+740,interlogix,H625 Security & Fire Safety Systems
+741,invixium,H625 Security & Fire Safety Systems
+742,iris,H625 Security & Fire Safety Systems
+743,knightscope,H625 Security & Fire Safety Systems
+744,kwikset,H625 Security & Fire Safety Systems
+745,mircom,H625 Security & Fire Safety Systems
+746,pelsue,H625 Security & Fire Safety Systems
+747,pmi,H625 Security & Fire Safety Systems
+748,rapiscan,H625 Security & Fire Safety Systems
+749,salto,H625 Security & Fire Safety Systems
+750,sdc,H625 Security & Fire Safety Systems
+751,sensormatic,H625 Security & Fire Safety Systems
+752,sigalarm,H625 Security & Fire Safety Systems
+753,slomins,H625 Security & Fire Safety Systems
+754,telguard,H625 Security & Fire Safety Systems
+755,timelox,H625 Security & Fire Safety Systems
+756,trademasters,H625 Security & Fire Safety Systems
+757,triconex,H625 Security & Fire Safety Systems
+758,zkteco,H625 Security & Fire Safety Systems
+759,zmodo,H625 Security & Fire Safety Systems
+760,aukey,H625 Security & Fire Safety Systems
+761,biocryptology,H625 Security & Fire Safety Systems
+762,buildclean,H625 Security & Fire Safety Systems
+763,cranesmart,H625 Security & Fire Safety Systems
+764,ripple,H625 Security & Fire Safety Systems
+765,bullex,H625 Security & Fire Safety Systems
+766,pyramex,H625 Security & Fire Safety Systems
+767,ramfan,H625 Security & Fire Safety Systems
+768,simplexgrinnell,H625 Security & Fire Safety Systems
+769,lanco,H631 Paint
+770,liquitex,H631 Paint
+771,miller,H631 Paint
+772,airstream,"T139 Vehicles, Sales & Leasing: Comb Copy&NEC"
+773,carado,"T139 Vehicles, Sales & Leasing: Comb Copy&NEC"
+774,featherlite,"T139 Vehicles, Sales & Leasing: Comb Copy&NEC"
+775,hillsboro,"T139 Vehicles, Sales & Leasing: Comb Copy&NEC"
+776,jayco,"T139 Vehicles, Sales & Leasing: Comb Copy&NEC"
+777,manac,"T139 Vehicles, Sales & Leasing: Comb Copy&NEC"
+778,newmar,"T139 Vehicles, Sales & Leasing: Comb Copy&NEC"
+779,pelsue,"T139 Vehicles, Sales & Leasing: Comb Copy&NEC"
+780,roadtrek,"T139 Vehicles, Sales & Leasing: Comb Copy&NEC"
+781,tiffin,"T139 Vehicles, Sales & Leasing: Comb Copy&NEC"
+782,winnebago,"T139 Vehicles, Sales & Leasing: Comb Copy&NEC"
+783,fahrenheit,T141 Automotive Batteries
+784,argosy,T412 Cruise Ship Travel
+785,atlantis,T412 Cruise Ship Travel
+786,caribbean,T412 Cruise Ship Travel
+787,celestyal,T412 Cruise Ship Travel
+788,croisieurope,T412 Cruise Ship Travel
+789,oceanic,T412 Cruise Ship Travel
+790,riverview,T412 Cruise Ship Travel
+791,seajet,T412 Cruise Ship Travel
+792,windstar,T412 Cruise Ship Travel
+793,espresso,T421 Travel Services
+794,jetsmarter,T421 Travel Services
+795,onejet,T421 Travel Services
+796,smartfares,T421 Travel Services
+797,disneyland,"T440 Amusement, Water & Theme Parks"
+798,bigbadtoystore,V363 Toy Stores
+799,joissu,V363 Toy Stores
+800,stecksstore,V364 Hobby & Craft Stores
+801,logobrands,V365 Sporting Goods Stores
+802,bikeradar,V365 Sporting Goods Stores
+803,gundealio,V365 Sporting Goods Stores
+804,huckberry,V365 Sporting Goods Stores
+805,syracuse,V365 Sporting Goods Stores
+806,westernbikeworks,V365 Sporting Goods Stores
