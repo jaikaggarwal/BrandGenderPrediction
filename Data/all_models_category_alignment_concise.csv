@@ -1,0 +1,73 @@
+,Word2Vec_alignment,Word2Vec_gender
+snow skis snowboard blades accessories,0.108,1
+pasta pasta_dishes,0.038,1
+cameras,0.027,1
+religious charitable humanitarian,-0.002,0
+face makeup,0.15,1
+skin_care_products,0.042,1
+loan credit products_or_services,-0.029,0
+women shaving supplies,0.237,1
+household paper products,0.121,1
+multipurpose_cleaner,0.032,1
+security_system fire_safety systems,0.127,1
+men scents fragrances aftershaves,0.177,1
+coffee donut restaurants,0.058,1
+dinnerware glassware pottery,0.177,1
+automotive_batteries,-0.051,0
+household batteries,0.026,1
+ice_cream frozen novelties sherbet,0.072,1
+fragrances,0.189,1
+coffee,0.07,1
+candy mints,0.138,1
+women shoes boots,0.136,1
+stuffed_toy,0.14,1
+web_design domain hosting_service_providers,0.081,1
+sneakers,-0.015,0
+advertising marketing printing,0.092,1
+stationery greeting_cards miscellaneous paper goods,0.096,1
+unisex_scent unisex_fragrance unisex_perfume,0.167,1
+insurance_agency insurance_brokers,0.028,1
+deodorants antiperspirants,0.16,1
+printers printing accessories,0.108,1
+cold cough sinus asthma remedies,0.088,1
+cooking_oils,0.061,1
+credit_cards,0.106,1
+cereals,0.051,1
+casual_dining_restaurants,0.005,1
+employment agencies,0.091,1
+toothpaste whiteners,0.146,1
+pain remedies,0.112,1
+catfood dogfood,0.096,1
+peanut_butter sandwich spreads,0.093,1
+mattresses boxspring,0.116,1
+nutritional_supplements,0.023,1
+television_network television_stations production_company,0.035,1
+cruise_ship travel,0.137,1
+sunglasses,0.02,1
+sporting_goods,-0.126,0
+laundry equipment,0.083,1
+beauty_shop,0.265,1
+sportswear athleticwear,0.071,1
+amusement_park waterpark theme_parks,0.001,1
+investment products_or_services,-0.064,0
+toy_store,0.059,1
+office furniture accessories,0.112,1
+handbags,0.224,1
+travel services,0.034,1
+paint,0.05,1
+regular beer ale,-0.06,0
+internet_service_providers,-0.018,0
+dishwashing_detergents,0.062,1
+cookies_crackers,0.067,1
+desktop_computers,0.039,1
+cocoa milk additives,0.119,1
+chips nuts popcorn pretzels,0.029,1
+electronic videogames software,0.012,1
+mens shaving equipment supplies,0.06,1
+sporting_goods_store,0.041,1
+bedding_linens,0.149,1
+cable_television providers systems,0.101,1
+vehicle_sales vehicle_leasing,0.025,1
+women scents fragrances perfumes,0.275,1
+fishing_tackle equipment,-0.109,0
+artificial_sweeteners,0.148,1

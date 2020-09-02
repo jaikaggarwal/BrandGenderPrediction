@@ -1,0 +1,73 @@
+,Word2Vec_alignment,Word2Vec_gender,Wikipedia_alignment,Wikipedia_gender,Glove_alignment,Glove_gender
+security fire safety systems,-0.027,0,-0.15,0,-0.089,0
+cameras,0.027,1,-0.124,0,0.019,1
+religious charitable humanitarian,-0.002,0,-0.119,0,0.002,1
+face makeup,0.15,1,-0.125,0,0.223,1
+mattresses box springs,-0.001,0,-0.174,0,0.009,1
+toy stores,0.09,1,-0.126,0,0.125,1
+women shaving supplies,0.237,1,-0.114,0,0.181,1
+household paper products,0.121,1,-0.166,0,0.049,1
+advertising marketing printing services,0.09,1,-0.119,0,-0.058,0
+stationery greeting cards miscellaneous paper goods,0.043,1,-0.188,0,0.04,1
+men scents fragrances aftershaves,0.177,1,-0.14,0,0.058,1
+coffee donut restaurants,0.058,1,-0.122,0,0.057,1
+ice cream frozen novelties sherbet,0.073,1,-0.158,0,0.07,1
+cat dog food,0.188,1,-0.114,0,0.128,1
+dinnerware glassware pottery,0.177,1,-0.094,0,0.08,1
+fragrances,0.189,1,-0.015,0,0.113,1
+artificial sweeteners,0.028,1,-0.105,0,0.079,1
+coffee,0.07,1,-0.079,0,0.079,1
+candy mints,0.138,1,-0.101,0,0.104,1
+automotive batteries,-0.041,0,-0.182,0,-0.094,0
+desktop computers,0.071,1,-0.103,0,-0.003,0
+women shoes boots,0.136,1,-0.099,0,0.203,1
+insurance agencies brokers,0.048,1,-0.152,0,-0.025,0
+web design domain hosting services,0.088,1,-0.135,0,-0.005,0
+sneakers,-0.015,0,-0.141,0,0.041,1
+deodorants antiperspirants,0.16,1,-0.058,0,0.08,1
+cold cough sinus asthma remedies,0.088,1,-0.148,0,0.077,1
+nutritional supplements,0.105,1,-0.042,0,0.093,1
+beer ale,-0.047,0,-0.17,0,-0.059,0
+household batteries,0.026,1,-0.099,0,-0.0,1
+credit cards,-0.018,0,-0.154,0,-0.035,0
+printers printing accessories,0.108,1,-0.136,0,-0.03,0
+cereals,0.051,1,-0.119,0,0.041,1
+amusement water theme parks,0.031,1,-0.183,0,0.025,1
+sporting goods stores,0.027,1,-0.149,0,0.029,1
+employment agencies,0.091,1,-0.121,0,0.016,1
+toothpaste whiteners,0.146,1,-0.154,0,0.123,1
+pain remedies,0.112,1,-0.139,0,0.107,1
+beauty shops,0.237,1,-0.092,0,0.201,1
+pasta pasta dishes,0.084,1,-0.09,0,0.108,1
+electronic video games software,-0.029,0,-0.176,0,-0.093,0
+sunglasses,0.02,1,-0.129,0,0.041,1
+vehicles sales leasing,0.017,1,-0.154,0,-0.08,0
+tv networks stations production companies,0.068,1,-0.131,0,-0.034,0
+stuffed toys,0.073,1,-0.154,0,0.149,1
+laundry equipment,0.083,1,-0.14,0,0.068,1
+sportswear athleticwear,0.071,1,-0.101,0,0.037,1
+cookies crackers,0.13,1,-0.057,0,0.124,1
+snow skis boards blades accessories,0.097,1,-0.152,0,0.039,1
+office furniture accessories,0.112,1,-0.188,0,0.059,1
+handbags,0.224,1,0.006,1,0.14,1
+travel services,0.034,1,-0.14,0,0.013,1
+paint,0.05,1,-0.135,0,0.032,1
+unisex scents fragrances perfumes,0.224,1,-0.047,0,0.115,1
+bedding linens,0.179,1,-0.104,0,0.159,1
+cable television providers systems,0.07,1,-0.156,0,0.007,1
+dishwashing detergents,0.139,1,-0.107,0,0.105,1
+chips nuts popcorn pretzels,0.029,1,-0.164,0,0.027,1
+cocoa milk additives,0.119,1,-0.093,0,0.114,1
+peanut butter sandwich spreads,0.057,1,-0.137,0,0.132,1
+mens shaving equipment supplies,0.06,1,-0.184,0,-0.005,0
+investment products services,0.003,1,-0.14,0,-0.045,0
+fishing tackle equipment,-0.138,0,-0.265,0,-0.152,0
+sporting goods,-0.025,0,-0.16,0,-0.01,0
+cooking oils,0.159,1,-0.092,0,0.131,1
+cruise ship travel,0.054,1,-0.106,0,0.068,1
+skin care products,0.15,1,-0.154,0,0.133,1
+casual dining restaurants,0.055,1,-0.121,0,0.053,1
+women scents fragrances perfumes,0.275,1,-0.022,0,0.189,1
+loan credit products services,0.006,1,-0.156,0,-0.041,0
+internet service providers,0.12,1,-0.144,0,-0.002,0
+multipurpose cleaners,0.006,1,-0.125,0,0.049,1

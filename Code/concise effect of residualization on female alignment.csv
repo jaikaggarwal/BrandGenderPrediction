@@ -1,0 +1,2 @@
+,Female,Male,Neutral,Overall,Residual Female,Residual Male,Residual Neutral,Residual Overall,Female Diff,Male Diff,Neutral Diff
+Word2Vec,0.811,0.684,0.759,0.74,0.249,0.7,0.403,0.486,0.561,-0.016,0.356

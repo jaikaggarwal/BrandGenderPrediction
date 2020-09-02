@@ -1,0 +1,4 @@
+,Female,Male,Neutral,Overall,Residual Female,Residual Male,Residual Neutral,Residual Overall,Female Diff,Male Diff,Neutral Diff
+Word2Vec,0.837,0.69,0.745,0.742,0.24,0.73,0.385,0.476,0.597,-0.04,0.359
+Wikipedia,0.024,0.003,0.025,0.019,0.178,0.711,0.43,0.429,-0.154,-0.708,-0.405
+Glove,0.685,0.379,0.513,0.491,0.14,0.632,0.235,0.371,0.545,-0.253,0.278
